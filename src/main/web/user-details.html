@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Profile</title>
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+	<meta name="description" content="Magnetic is a stunning responsive HTML5/CSS3 photography/portfolio website template"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main-g.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+
+	<header>
+		<p>&ensp;</p>
+		<p>&ensp;</p>
+		<p>&ensp;</p>
+		<p>&ensp;</p>
+		<p>&ensp;</p>
+		<p id="UserName" href="user-details.html" style="font-size:40px">User</p>
+		<p id="UserEmail" style="font-size:15px">&ensp;</p>
+
+		<div id="menu_icon"></div>
+		<nav>
+			<ul>
+				<li><a onclick="getSellBook()">Sell</a></li>
+				<li><a onclick="getBuyBook()">Buy</a></li>
+				<li><a onclick="getNeedBook()">Need</a></li>
+				<li><a onclick="chat()">Chat</a></li>
+				<div class="header-toolbar__item header-toolbar--minicart-btn">
+					<a href="#miniCart" class="header-toolbar__btn toolbar-btn">
+						<i class="la la-shopping-cart"></i>
+						<span>01</span>
+					</a>
+				</div>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<p>&ensp;</p>
+				<li><a onclick="backToIndex()">Back</a></li>
+			</ul>
+		</nav><!-- end navigation menu -->
+
+	</header><!-- end header -->
+
+	<section class="main clearfix">
+		<div id = "grid0" class="work" href="addtosell-form.html" >
+
+		</div>
+
+		<div id = "grid1" class="work">
+
+		</div>
+
+		<div id = "grid2" class="work">
+
+		</div>
+
+		<div id = "grid3" class="work">
+
+		</div>
+
+		<div id = "grid4" class="work">
+
+		</div>
+
+		<div id = "grid5" class="work">
+
+		</div>
+
+		<div id = "grid6" class="work">
+
+		</div>
+
+		<div id = "grid7" class="work">
+
+		</div>
+
+		<div id = "grid8" class="work">
+
+		</div>
+	</section><!-- end main -->
+
+	<script>
+
+        var email = localStorage.getItem('email');
+        var username = localStorage.getItem('username');
+        var a = document.getElementById('UserName');
+        if (username) {
+            a.innerHTML = username;
+        }
+        var b = document.getElementById('UserEmail');
+        if (email) {
+            b.innerHTML = email;
+		}
+
+        // var imgWidth = window.screen.width*0.25;
+        // var grid = document.getElementById('grid0');
+        // grid.innerHTML = "<a href='needbook-form.html'> <img src=\"img/add.png\" width=\""+imgWidth+"\" height=\""+imgWidth+"\" " +
+        //     "href='needbook-form.html' style=\"vertical-align:middle;\" alt=\"\"/> </a>";
+
+        function getParam(item) {
+            let reg = new RegExp("(^|&)" + item + "=([^&]*)(&|$)", "i");
+            let r = window.location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;
+        }
+
+        function getSellBook() {
+            $.ajax({
+                url: 'http://localhost:8080/mySellBook',
+                async: false,
+                type: "POST",
+                data: {'email': email},
+                success: function (response) {
+                    var data = $.parseJSON(response);
+                    var imgWidth = window.screen.width*0.25;
+                    var grid = document.getElementById('grid0');
+                    grid.innerHTML = "<a href='addtosell-form.html'> <img src=\"img/add.png\" width=\""+imgWidth+"\" height=\""+imgWidth+"\" " +
+						"href='addtosell-form.html' style=\"vertical-align:middle;\" alt=\"\"/> </a>";
+                    var i = 0;
+					while (i < data.length && i < 8) {
+                        grid = document.getElementById('grid' + (i + 1));
+                        if (i < data.length) {
+                            grid.innerHTML = "<img src=\"" + data[i].imageURL + "\" width=\"" + imgWidth + "\" height=\"" + imgWidth + "\" alt=\"\"/>";
+                            // +"<p>"+data[i].name+"</p>";
+                        }
+                        else {
+                            grid.innerHTML = "<div></div>";
+						}
+						i++;
+                    }
+                }
+            });
+		}
+
+        function getBuyBook() {
+            $.ajax({
+                url: 'http://localhost:8080/myBuyBook',
+                async: false,
+                type: "POST",
+                data: {'email': email},
+                success: function (response) {
+                    var data = $.parseJSON(response);
+                    var imgWidth = window.screen.width*0.25;
+                    var grid = document.getElementById('grid0');
+                    grid.innerHTML = "<a href='index.html'> <img src=\"img/add.png\" width=\""+imgWidth+"\" height=\""+imgWidth+"\" " +
+                        "href='index.html' style=\"vertical-align:middle;\" alt=\"\"/> </a>";
+                    var i = 0;
+                    while (i < data.length && i < 8) {
+                        grid = document.getElementById('grid' + (i + 1));
+                        if (i < data.length) {
+                            grid.innerHTML = "<img src=\"" + data[i].imageURL + "\" width=\"" + imgWidth + "\" height=\"" + imgWidth + "\" alt=\"\"/>";
+                            // +"<p>"+data[i].name+"</p>";
+                        }
+                        else {
+                            grid.innerHTML = "<div></div>";
+                        }
+                        i++;
+                    }
+                }
+            });
+        }
+
+        function getNeedBook() {
+            $.ajax({
+                url: 'http://localhost:8080/myNeedBook',
+                async: false,
+                type: "POST",
+                data: {'email': email},
+                success: function (response) {
+                    var data = $.parseJSON(response);
+                    var imgWidth = window.screen.width*0.25;
+                    var grid = document.getElementById('grid0');
+                    grid.innerHTML = "<a href='needbook-form.html'> <img src=\"img/add.png\" width=\""+imgWidth+"\" height=\""+imgWidth+"\" " +
+                        "href='needbook-form.html' style=\"vertical-align:middle;\" alt=\"\"/> </a>";
+                    var i = 0;
+                    while (i < data.length && i < 8) {
+                        grid = document.getElementById('grid' + (i + 1));
+                        if (i < data.length) {
+                            grid.innerHTML = "<img src=\"" + data[i].imageURL + "\" width=\"" + imgWidth + "\" height=\"" + imgWidth + "\" alt=\"\"/>";
+                            // +"<p>"+data[i].name+"</p>";
+                        }
+                        else {
+                            grid.innerHTML = "<div></div>";
+                        }
+                        i++;
+                    }
+                }
+            });
+        }
+
+		function backToIndex() {
+            $(location).attr('href', 'index.html');
+        }
+
+	</script>
+	
+</body>
+</html>

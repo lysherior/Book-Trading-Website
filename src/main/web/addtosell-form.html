@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  -->
+    <title>Add Book To Sell</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Login and Registration Form with HTML5 and CSS3" />
+    <meta name="keywords" content="html5, css3, form, switch, animation, :target, pseudo-class" />
+    <meta name="author" content="Codrops" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/animate-custom.css" />
+    <!-- ************************* JS Files ************************* -->
+    <script src="assets/js/jquery-3.1.1.min.js"></script>
+    <script src="assets/js/vendor.js"></script> <!-- jQuery JS -->
+    <script src="assets/js/main.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1></h1>
+        </header>
+        <section>
+            <div id="container_demo" >
+                <a class="hiddenanchor" id="toregister"></a>
+                <a class="hiddenanchor" id="tologin"></a>
+                <div id="wrapper">
+                    <div id="login" class="animate form">
+                        <form id="form" autocomplete="on" method="post" enctype="multipart/form-data">
+                            <h1>SELL BOOK</h1>
+                            <p>
+                                <label for="email"> Your Email </label>
+                                <a id = email></a>
+                            </p>
+                            <p>
+                                <label for="bookname" data-icon="p"> Book Name </label>
+                                <input id="bookname" name="bookname" required="required" type="text"/>
+                            </p>
+                            <p>
+                                <label for="ISBN" data-icon="p"> ISBN </label>
+                                <input id="ISBN" name="ISBN" required="required" type="text"/>
+                            </p>
+                            <p>
+                                <label for="originalprice" data-icon="p"> Original Price </label>
+                                <input id="originalprice" name="originalprice" required="required" type="text"/>
+                            </p>
+                            <p>
+                                <label for="price" data-icon="p"> Price </label>
+                                <input id="price" name="price" required="required" type="text"/>
+                            </p>
+                            <p>
+                                <label for="category" data-icon="p"> Category </label>
+                                <input id="category" name="category" required="required" type="text"/>
+                            </p>
+                            <p>
+                                <label for="details" data-icon="p"> Description </label>
+                                <input id="details" name="details" required="required" type="text"/>
+                            </p>
+
+                            <p>
+                                <label for="image" data-icon="p"> Image </label>
+                                <input type="file" id="image" name="image"  required="required">
+                            </p>
+
+                            <p class="login button">
+                                <input type="submit" onclick="upLoad()" id="uploadFile" value="Submit" />
+                            </p>
+                        </form>
+                        <iframe id="rfFrame" name="rfFrame" src="about:blank" style="display:none;"></iframe>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+    </div>
+<script>
+
+    var email = localStorage.getItem('email');
+    var b = document.getElementById('email');
+    if (email) {
+        b.innerHTML = email;
+    }
+
+    function getParam(item) {
+        let reg = new RegExp("(^|&)" + item + "=([^&]*)(&|$)", "i");
+        let r = window.location.search.substr(1).match(reg);
+        if (r != null) {
+            return unescape(r[2]);
+        }
+        return null;
+    }
+
+    function upLoad() {
+        document.forms[0].target="rfFrame";
+        var formData = new FormData($('#form')[0]);
+        var url = "http://localhost:8080/addToSell?email="+email;
+        $.ajax({
+            url: url,
+            type: 'POST',
+            cache: false,
+            data:formData,
+            processData: false,
+            contentType: false,
+            success:function() {
+                alert("发布成功 ！");
+                $(location).attr('href', 'user-details.html');
+            },
+            fail:function () {
+                alert("发布失败 ！");
+            }
+        });
+    }
+</script>
+</body>
+</html>

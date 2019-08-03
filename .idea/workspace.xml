@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf2bc82a-a766-4d74-bda2-b31f49072244" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4d565e89-d150-4bdb-b755-2121622b9c05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/4.8.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/AccountsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ActorInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ActorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/AddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/BookMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/BorrowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/BuyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CardMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CharacterSetsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CityMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CollationCharacterSetApplicabilityMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CollationsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ColumnPrivilegesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ColumnsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ColumnsPrivMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CondInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CountryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CourseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CustomerListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/CustomerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/DbMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EngineCostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EnginesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesCurrentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesHistoryLongMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesSummaryByAccountByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesSummaryByHostByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesSummaryByThreadByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesSummaryByUserByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStagesSummaryGlobalByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsCurrentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsHistoryLongMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByAccountByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByDigestMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByHostByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByProgramMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByThreadByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryByUserByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsStatementsSummaryGlobalByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsCurrentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsHistoryLongMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsSummaryByAccountByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsSummaryByHostByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsSummaryByThreadByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsSummaryByUserByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsTransactionsSummaryGlobalByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsCurrentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsHistoryLongMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryByAccountByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryByHostByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryByInstanceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryByThreadByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryByUserByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/EventsWaitsSummaryGlobalByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FileInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FileSummaryByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FileSummaryByInstanceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilmActorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilmCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilmListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilmMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FilmTextMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/FuncMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/GeneralLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/GlobalStatusMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/GlobalVariablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/GtidExecutedMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HelpCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HelpKeywordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HelpRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HelpTopicMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostCacheMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryByFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryByFileIoTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryByStagesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryByStatementLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryByStatementTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostSummaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/HostsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbBufferPageLruMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbBufferPageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbBufferPoolStatsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbBufferStatsBySchemaMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbBufferStatsByTableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpPerIndexMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpPerIndexResetMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpResetMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpmemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbCmpmemResetMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtBeingDeletedMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtConfigMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtDefaultStopwordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtDeletedMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtIndexCacheMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbFtIndexTableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbIndexStatsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbLockWaitsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbLocksMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbMetricsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysColumnsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysDatafilesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysFieldsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysForeignColsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysForeignMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysIndexesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysTablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysTablespacesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysTablestatsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbSysVirtualMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbTableStatsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbTempTableInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InnodbTrxMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/InventoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/IoByThreadByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/IoGlobalByFileByBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/IoGlobalByFileByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/IoGlobalByWaitByBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/IoGlobalByWaitByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/KeyColumnUsageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/LanguageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/LatestFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemoryByHostByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemoryByThreadByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemoryByUserByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemoryGlobalByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemorySummaryByAccountByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemorySummaryByHostByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemorySummaryByThreadByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemorySummaryByUserByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MemorySummaryGlobalByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MetadataLocksMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MetricsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/MutexInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/NdbBinlogIndexMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/NeedMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/NicerButSlowerFilmListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ObjectsSummaryGlobalByTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/OptimizerTraceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ParametersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PartitionsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PaymentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PerformanceTimersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PluginMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PluginsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PreparedStatementsInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ProcMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ProcesslistMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ProcsPrivMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ProfilingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ProxiesPrivMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/PsCheckLostInstrumentationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReferentialConstraintsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/RentalMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationApplierConfigurationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationApplierStatusByCoordinatorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationApplierStatusByWorkerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationApplierStatusMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationConnectionConfigurationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationConnectionStatusMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationGroupMemberStatsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ReplicationGroupMembersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/RoutinesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/RwlockInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SalesByFilmCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SalesByStoreMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaAutoIncrementColumnsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaIndexStatisticsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaObjectOverviewMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaPrivilegesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaRedundantIndexesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaTableLockWaitsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaTableStatisticsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaTableStatisticsWithBufferMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaTablesWithFullTableScansMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemaUnusedIndexesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SchemataMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ScoreMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SellMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ServerCostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ServersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionAccountConnectAttrsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionConnectAttrsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionSslStatusMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionStatusMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SessionVariablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SetupActorsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SetupConsumersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SetupInstrumentsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SetupObjectsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SetupTimersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SlaveMasterInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SlaveRelayLogInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SlaveWorkerInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SlowLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SocketInstancesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SocketSummaryByEventNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SocketSummaryByInstanceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StaffListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StaffMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementAnalysisMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementsWithErrorsOrWarningsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementsWithFullTableScansMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementsWithRuntimesIn95thPercentileMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementsWithSortingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatementsWithTempTablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatisticsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatusByAccountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatusByHostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatusByThreadMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StatusByUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StoreMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/SysConfigMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TableConstraintsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TableHandlesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TableIoWaitsSummaryByIndexUsageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TableIoWaitsSummaryByTableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TableLockWaitsSummaryByTableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TablePrivilegesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TablesPrivMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TablespacesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TeacherMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ThreadsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TimeZoneLeapSecondMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TimeZoneMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TimeZoneNameMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TimeZoneTransitionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TimeZoneTransitionTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/TriggersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserPrivilegesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryByFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryByFileIoTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryByStagesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryByStatementLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryByStatementTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserSummaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UserVariablesByThreadMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/UsersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/VariablesByThreadMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/VersionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/ViewsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/WaitClassesGlobalByAvgLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/WaitClassesGlobalByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/WaitsByHostByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/WaitsByUserByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/WaitsGlobalByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryByFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryByFileIoTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryByStagesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryByStatementLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryByStatementTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XHostSummaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XInnodbBufferStatsBySchemaMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XInnodbBufferStatsByTableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XInnodbLockWaitsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XIoByThreadByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XIoGlobalByFileByBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XIoGlobalByFileByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XIoGlobalByWaitByBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XIoGlobalByWaitByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XLatestFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XMemoryByHostByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XMemoryByThreadByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XMemoryByUserByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XMemoryGlobalByCurrentBytesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XMemoryGlobalTotalMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XProcesslistMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XPsDigest95thPercentileByAvgUsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XPsDigestAvgLatencyDistributionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XPsSchemaTableStatisticsIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaFlattenedKeysMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaIndexStatisticsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaTableLockWaitsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaTableStatisticsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaTableStatisticsWithBufferMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSchemaTablesWithFullTableScansMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XSessionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementAnalysisMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementsWithErrorsOrWarningsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementsWithFullTableScansMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementsWithRuntimesIn95thPercentileMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementsWithSortingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XStatementsWithTempTablesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryByFileIoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryByFileIoTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryByStagesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryByStatementLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryByStatementTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XUserSummaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XWaitClassesGlobalByAvgLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XWaitClassesGlobalByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XWaitsByHostByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XWaitsByUserByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/dao/XWaitsGlobalByLatencyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Accounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Actor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ActorInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Borrow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Buy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/CharacterSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/CollationCharacterSetApplicability.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Collations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ColumnPrivileges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Columns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ColumnsPriv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/CondInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/CustomerList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Db.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EngineCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Engines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Event.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Events.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesHistoryLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesSummaryByAccountByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesSummaryByHostByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesSummaryByThreadByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesSummaryByUserByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStagesSummaryGlobalByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsHistoryLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByAccountByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByDigest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByHostByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByThreadByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryByUserByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsStatementsSummaryGlobalByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsHistoryLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsSummaryByAccountByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsSummaryByHostByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsSummaryByThreadByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsSummaryByUserByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsTransactionsSummaryGlobalByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsHistoryLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryByAccountByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryByHostByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryByInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryByThreadByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryByUserByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/EventsWaitsSummaryGlobalByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FileInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FileSummaryByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FileSummaryByInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Files.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FilmActor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FilmCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FilmList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/FilmText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Func.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/GeneralLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/GlobalStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/GlobalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/GtidExecuted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HelpCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HelpKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HelpRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HelpTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummaryByFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummaryByFileIoType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummaryByStages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummaryByStatementLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/HostSummaryByStatementType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Hosts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbBufferPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbBufferPageLru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbBufferPoolStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbBufferStatsBySchema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbBufferStatsByTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmpPerIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmpPerIndexReset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmpReset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmpmem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbCmpmemReset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtBeingDeleted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtDefaultStopword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtDeleted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtIndexCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbFtIndexTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbIndexStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbLockWaits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbLocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbMetrics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysColumns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysDatafiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysForeign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysForeignCols.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysIndexes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysTablespaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysTablestats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbSysVirtual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbTableStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbTempTableInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/InnodbTrx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/IoByThreadByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/IoGlobalByFileByBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/IoGlobalByFileByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/IoGlobalByWaitByBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/IoGlobalByWaitByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/KeyColumnUsage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/LatestFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemoryByHostByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemoryByThreadByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemoryByUserByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemoryGlobalByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemorySummaryByAccountByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemorySummaryByHostByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemorySummaryByThreadByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemorySummaryByUserByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MemorySummaryGlobalByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MetadataLocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Metrics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/MutexInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/NdbBinlogIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Need.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/NicerButSlowerFilmList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ObjectsSummaryGlobalByType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/OptimizerTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Parameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Partitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/PerformanceTimers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Plugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Plugins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/PreparedStatementsInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Proc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Processlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ProcsPriv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Profiling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ProxiesPriv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/PsCheckLostInstrumentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReferentialConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Rental.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationApplierConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationApplierStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationApplierStatusByCoordinator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationApplierStatusByWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationConnectionConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationConnectionStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationGroupMemberStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ReplicationGroupMembers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Routines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/RwlockInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SalesByFilmCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SalesByStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaAutoIncrementColumns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaIndexStatistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaObjectOverview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaPrivileges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaRedundantIndexes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaTableLockWaits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaTableStatistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaTableStatisticsWithBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaTablesWithFullTableScans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SchemaUnusedIndexes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Schemata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Sell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/ServerCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Servers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Session.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SessionAccountConnectAttrs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SessionConnectAttrs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SessionSslStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SessionStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SessionVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SetupActors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SetupConsumers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SetupInstruments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SetupObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SetupTimers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SlaveMasterInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SlaveRelayLogInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SlaveWorkerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SlowLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SocketInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SocketSummaryByEventName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SocketSummaryByInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StaffList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementsWithErrorsOrWarnings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementsWithFullTableScans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementsWithRuntimesIn95thPercentile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementsWithSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatementsWithTempTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Statistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatusByAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatusByHost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatusByThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/StatusByUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/SysConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TableConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TableHandles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TableIoWaitsSummaryByIndexUsage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TableIoWaitsSummaryByTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TableLockWaitsSummaryByTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TablePrivileges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Tables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TablesPriv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Tablespaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Threads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TimeZone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TimeZoneLeapSecond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TimeZoneName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TimeZoneTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/TimeZoneTransitionType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Triggers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserPrivileges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummaryByFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummaryByFileIoType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummaryByStages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummaryByStatementLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserSummaryByStatementType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/UserVariablesByThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/VariablesByThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Version.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/Views.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/WaitClassesGlobalByAvgLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/WaitClassesGlobalByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/WaitsByHostByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/WaitsByUserByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/WaitsGlobalByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummaryByFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummaryByFileIoType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummaryByStages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummaryByStatementLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XHostSummaryByStatementType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XInnodbBufferStatsBySchema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XInnodbBufferStatsByTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XInnodbLockWaits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XIoByThreadByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XIoGlobalByFileByBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XIoGlobalByFileByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XIoGlobalByWaitByBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XIoGlobalByWaitByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XLatestFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XMemoryByHostByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XMemoryByThreadByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XMemoryByUserByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XMemoryGlobalByCurrentBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XMemoryGlobalTotal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XProcesslist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XPsDigest95thPercentileByAvgUs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XPsDigestAvgLatencyDistribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XPsSchemaTableStatisticsIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaFlattenedKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaIndexStatistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaTableLockWaits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaTableStatistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaTableStatisticsWithBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSchemaTablesWithFullTableScans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementsWithErrorsOrWarnings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementsWithFullTableScans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementsWithRuntimesIn95thPercentile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementsWithSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XStatementsWithTempTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummaryByFileIo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummaryByFileIoType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummaryByStages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummaryByStatementLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XUserSummaryByStatementType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XWaitClassesGlobalByAvgLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XWaitClassesGlobalByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XWaitsByHostByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XWaitsByUserByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/data/pojo/XWaitsGlobalByLatency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/resources/mybatis/generator.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/generator.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/web/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bs: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bs: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="book: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bs: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="buy: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bs: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="sell: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Book-Trading-Website" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Book-Trading-Website" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Book-Trading-Website" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="241" column="62" selection-start-line="241" selection-start-column="62" selection-end-line="241" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user" pinned="false" current-in-tab="false">
+        <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buy" pinned="false" current-in-tab="false">
+        <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/buy">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sell" pinned="false" current-in-tab="false">
+        <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/sell">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/web/chat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="106" column="58" lean-forward="true" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book" pinned="false" current-in-tab="false">
+        <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/book">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-details.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/web/user-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#p#5;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="348" column="24" selection-start-line="348" selection-start-column="24" selection-end-line="348" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>favicon.ico</find>
+      <find>!=</find>
+      <find>add</find>
+      <find>style</find>
+      <find>main-g</find>
+      <find>bg.jpg</find>
+      <find>addToSell</find>
+      <find>b</find>
+      <find>email=</find>
+      <find>searchForm</find>
+      <find>la la-sear</find>
+      <find>la la-sea</find>
+      <find>selectBooksBykey</find>
+      <find>Access-Control-Allow-Origin</find>
+      <find>search()</find>
+      <find>Product</find>
+      <find>ALERT</find>
+      <find>product-details</find>
+      <find>product-details.html</find>
+      <find>UserPlaceHolder</find>
+      <find>big-image</find>
+      <find>title</find>
+      <find>bookname</find>
+      <find>description</find>
+      <find>price</find>
+      <find>addtose</find>
+      <find>btn</find>
+      <find>$(location).attr</find>
+      <find>$20</find>
+      <find>clear</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>index.html</replace>
+      <replace>main-g.css</replace>
+      <replace>!==</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\Gradle" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Book-Trading-Website" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Book-Trading-Website" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Book-Trading-Website'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Book-Trading-Website'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mybatisGenerate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Book-Trading-Website'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Book-Trading-Website'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4685447842275" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3210793484" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1199430519" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.1.RELEASE/810d9c0c093e71b9988ad8d4abaede2a1ea2ee23/spring-boot-gradle-plugin-2.1.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.1.RELEASE/9e5f8afba5a442b48a871d61ca6003c2c0c11789/spring-boot-loader-tools-2.1.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.3.RELEASE/b1e5325d35bfb27e42d57e9295510cad54ed8fdf/spring-core-5.1.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.3.RELEASE/d332735dbc9c3f48cac59fb832c5719eb62bbe4d/spring-jcl-5.1.3.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Book-Trading-Website" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Gradle/src/announce" />
+                  <option value="D:/Gradle/src/antlr" />
+                  <option value="D:/Gradle/src/base-services" />
+                  <option value="D:/Gradle/src/base-services-groovy" />
+                  <option value="D:/Gradle/src/build-cache" />
+                  <option value="D:/Gradle/src/build-cache-http" />
+                  <option value="D:/Gradle/src/build-comparison" />
+                  <option value="D:/Gradle/src/build-init" />
+                  <option value="D:/Gradle/src/build-option" />
+                  <option value="D:/Gradle/src/cli" />
+                  <option value="D:/Gradle/src/code-quality" />
+                  <option value="D:/Gradle/src/composite-builds" />
+                  <option value="D:/Gradle/src/core" />
+                  <option value="D:/Gradle/src/core-api" />
+                  <option value="D:/Gradle/src/dependency-management" />
+                  <option value="D:/Gradle/src/diagnostics" />
+                  <option value="D:/Gradle/src/ear" />
+                  <option value="D:/Gradle/src/ide" />
+                  <option value="D:/Gradle/src/ide-native" />
+                  <option value="D:/Gradle/src/ide-play" />
+                  <option value="D:/Gradle/src/installation-beacon" />
+                  <option value="D:/Gradle/src/internal-android-performance-testing" />
+                  <option value="D:/Gradle/src/internal-integ-testing" />
+                  <option value="D:/Gradle/src/internal-performance-testing" />
+                  <option value="D:/Gradle/src/internal-testing" />
+                  <option value="D:/Gradle/src/ivy" />
+                  <option value="D:/Gradle/src/jacoco" />
+                  <option value="D:/Gradle/src/javascript" />
+                  <option value="D:/Gradle/src/jvm-services" />
+                  <option value="D:/Gradle/src/language-groovy" />
+                  <option value="D:/Gradle/src/language-java" />
+                  <option value="D:/Gradle/src/language-jvm" />
+                  <option value="D:/Gradle/src/language-native" />
+                  <option value="D:/Gradle/src/language-scala" />
+                  <option value="D:/Gradle/src/launcher" />
+                  <option value="D:/Gradle/src/logging" />
+                  <option value="D:/Gradle/src/maven" />
+                  <option value="D:/Gradle/src/messaging" />
+                  <option value="D:/Gradle/src/model-core" />
+                  <option value="D:/Gradle/src/model-groovy" />
+                  <option value="D:/Gradle/src/native" />
+                  <option value="D:/Gradle/src/osgi" />
+                  <option value="D:/Gradle/src/persistent-cache" />
+                  <option value="D:/Gradle/src/platform-base" />
+                  <option value="D:/Gradle/src/platform-jvm" />
+                  <option value="D:/Gradle/src/platform-native" />
+                  <option value="D:/Gradle/src/platform-play" />
+                  <option value="D:/Gradle/src/plugin-development" />
+                  <option value="D:/Gradle/src/plugin-use" />
+                  <option value="D:/Gradle/src/plugins" />
+                  <option value="D:/Gradle/src/process-services" />
+                  <option value="D:/Gradle/src/publish" />
+                  <option value="D:/Gradle/src/reporting" />
+                  <option value="D:/Gradle/src/resources" />
+                  <option value="D:/Gradle/src/resources-gcs" />
+                  <option value="D:/Gradle/src/resources-http" />
+                  <option value="D:/Gradle/src/resources-s3" />
+                  <option value="D:/Gradle/src/resources-sftp" />
+                  <option value="D:/Gradle/src/scala" />
+                  <option value="D:/Gradle/src/signing" />
+                  <option value="D:/Gradle/src/test-kit" />
+                  <option value="D:/Gradle/src/testing-base" />
+                  <option value="D:/Gradle/src/testing-junit-platform" />
+                  <option value="D:/Gradle/src/testing-jvm" />
+                  <option value="D:/Gradle/src/testing-native" />
+                  <option value="D:/Gradle/src/tooling-api" />
+                  <option value="D:/Gradle/src/tooling-api-builders" />
+                  <option value="D:/Gradle/src/version-control" />
+                  <option value="D:/Gradle/src/workers" />
+                  <option value="D:/Gradle/src/wrapper" />
+                  <option value="D:/Gradle/lib/ant-1.9.11.jar" />
+                  <option value="D:/Gradle/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Gradle/lib/gradle-base-services-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-base-services-groovy-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-build-cache-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-build-option-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-cli-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-core-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-core-api-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-docs-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-installation-beacon-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-jvm-services-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Gradle/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Gradle/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Gradle/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Gradle/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Gradle/lib/gradle-launcher-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-logging-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-messaging-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-model-core-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-model-groovy-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-native-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-persistent-cache-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-process-services-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-resources-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-runtime-api-info-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-tooling-api-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/gradle-wrapper-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-announce-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-antlr-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-build-cache-http-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-build-comparison-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-build-init-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-code-quality-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-composite-builds-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-dependency-management-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-diagnostics-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-ear-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-ide-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-ide-native-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-ide-play-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-ivy-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-jacoco-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-javascript-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-language-groovy-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-language-java-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-language-jvm-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-language-native-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-language-scala-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-maven-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-osgi-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-platform-base-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-platform-jvm-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-platform-native-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-platform-play-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-plugin-development-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-plugin-use-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-plugins-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-publish-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-reporting-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-resources-gcs-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-resources-http-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-resources-s3-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-resources-sftp-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-scala-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-signing-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-test-kit-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-testing-base-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-testing-junit-platform-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-testing-jvm-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-testing-native-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-tooling-api-builders-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-version-control-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/gradle-workers-4.8.1.jar" />
+                  <option value="D:/Gradle/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/web/shop.html" />
+        <option value="$PROJECT_DIR$/src/main/java/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/dao/bookMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/dao/userMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/generator.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/bin/src/main/resources/mybatis/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/data/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/web/css/common.css" />
+        <option value="$PROJECT_DIR$/src/main/web/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/web/js/user-details.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mapper/SellMapper" />
+        <option value="$PROJECT_DIR$/src/main/java/data/pojo/Sell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/dao/SellMapper.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c6141b48-b6cf-4663-b216-ff47415af8cc/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/web/assets/js/login.js" />
+        <option value="$PROJECT_DIR$/src/main/web/register.html" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/web/inner.html" />
+        <option value="$PROJECT_DIR$/src/main/web/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/web/assets/css/vendor.css" />
+        <option value="$PROJECT_DIR$/src/main/web/css/main-g.css" />
+        <option value="$PROJECT_DIR$/src/main/web/form.html" />
+        <option value="$PROJECT_DIR$/src/main/java/data/pojo/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/config.xml" />
+        <option value="$PROJECT_DIR$/src/main/web/login.html" />
+        <option value="$PROJECT_DIR$/src/main/web/js/buybook-form.html" />
+        <option value="$PROJECT_DIR$/src/main/web/addtosell-form.html" />
+        <option value="$PROJECT_DIR$/src/main/web/product-details.html" />
+        <option value="$PROJECT_DIR$/src/main/java/data/dao/BookMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mapper/BookMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/web/js/needbook-form.html" />
+        <option value="$PROJECT_DIR$/src/main/web/needbook-form.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/data/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/web/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/web/buybook-form.html" />
+        <option value="$PROJECT_DIR$/src/main/web/user-details.html" />
+        <option value="$PROJECT_DIR$/src/main/web/chat.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="527" />
+    <option name="y" value="9" />
+    <option name="width" value="1240" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Book-Trading-Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Book-Trading-Website" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last.edited.regexp" value="jjdsa_dsajd_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47045952" />
+    <property name="settings.editor.selected.configurable" value="database.data.views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main\web\assets\js" />
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main\web\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main\web" />
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main\resources" />
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main\web\img" />
+      <recent name="E:\桌面\BS\copy\Book-Trading-Website\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Application" />
+      <module name="Book-Trading-Website_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Book-Trading-Website []" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="Book-Trading-Website [create-dirs]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="create-dirs" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="Book-Trading-Website [mybatisGenerate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="mybatisGenerate" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Book-Trading-Website_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Book-Trading-Website []" />
+      <item itemvalue="Gradle.Book-Trading-Website [create-dirs]" />
+      <item itemvalue="Gradle.Book-Trading-Website [mybatisGenerate]" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.Book-Trading-Website [mybatisGenerate]" />
+        <item itemvalue="Gradle.Book-Trading-Website [create-dirs]" />
+        <item itemvalue="Gradle.Book-Trading-Website []" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf2bc82a-a766-4d74-bda2-b31f49072244" name="Default" comment="" />
+      <created>1561777376802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561777376802</updated>
+      <workItem from="1561777381953" duration="928000" />
+      <workItem from="1561779950132" duration="154312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155240000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.57298476" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.21002132" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39978212" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3278867" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32893288" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4684096" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32893288" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3006536" />
+      <window_info anchor="bottom" id="Database Console" order="3" weight="0.3278867" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15458423" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3278867" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.14765458" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="11" weight="0.57298476" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.5653595" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32893288" />
+      <window_info anchor="bottom" id="Database Console" order="3" weight="0.3278867" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3006536" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3278867" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3278867" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32893288" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15458423" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.21002132" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39978212" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/img/logowz.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="1218" column="1" selection-start-line="1218" selection-start-column="1" selection-end-line="1218" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/user-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/SellMapper.tld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/dao/SellMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/pojo/Sell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/SellMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/assets/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="323" column="17" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/inner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="240" column="16" selection-start-line="240" selection-start-column="16" selection-end-line="240" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/assets/css/vendor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="26" column="83198" selection-start-line="26" selection-start-column="83123" selection-end-line="26" selection-end-column="83198" />
+          <folding>
+            <element signature="e#57992#58192#2" expanded="true" />
+            <element signature="e#58400#58549#2" expanded="true" />
+            <element signature="e#59051#59197#2" expanded="true" />
+            <element signature="e#59498#59664#1" expanded="true" />
+            <element signature="e#71280#71523#2" expanded="true" />
+            <element signature="e#72390#72639#2" expanded="true" />
+            <element signature="e#99702#99892#2" expanded="true" />
+            <element signature="e#99938#100128#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="78" column="45" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1005" column="19" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/75dcfa137c6d496fb0aeaaa51495c546.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/5bbd0658c527419994093f9836612a9a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/830ba0abc6eb462c81e586f823b4be4e.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/236a056d31f24ca289006963058d2e14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/3f8d2e3b696545a2bb29c944e0720270.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bookImage/a493f785a0904500af9122e5ec5c8a8d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/pojo/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/table.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/product-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="158" column="57" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/css/main-g.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/needbook-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="80" column="49" lean-forward="true" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+          <folding>
+            <element signature="e#1893#1899#0" expanded="true" />
+            <element signature="e#1899#1905#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="45" column="74" lean-forward="true" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/BookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c6141b48-b6cf-4663-b216-ff47415af8cc/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="107" selection-start-column="107" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/dao/BookMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="241" column="62" selection-start-line="241" selection-start-column="62" selection-end-line="241" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/buybook-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="89" column="57" selection-start-line="89" selection-start-column="57" selection-end-line="89" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/addtosell-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="106" column="32" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="62" column="97" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="348" column="24" selection-start-line="348" selection-start-column="24" selection-end-line="348" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/book">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/buy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6141b48-b6cf-4663-b216-ff47415af8cc/schema/bs/table/sell">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/user-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#p#5;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="106" column="58" lean-forward="true" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Book-Trading-Website</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47045952" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

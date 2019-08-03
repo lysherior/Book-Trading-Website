@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="data.dao.UserMapper">
+
+    <insert id="insertUser" parameterType="data.pojo.User">
+        insert into user(email, name, password) values(#{email}, #{name}, #{password});
+    </insert>
+
+
+    <resultMap id="Users" type="data.pojo.User">
+        <id column="email" property="email" />
+        <result column="name" property="name" />
+        <result column="password" property="password" />
+    </resultMap>
+    <select id="selectAllUsers" resultMap="Users">
+        select * from user;
+    </select>
+
+    <select id="selectUserByEmail" parameterType="String" resultType="data.pojo.User">
+        select * from user where email=#{0};
+    </select>
+
+    <resultMap id="Books" type="data.pojo.Book">
+        <id column="bookID" property="bookID" />
+        <result column="name" property="name" />
+        <result column="ISBN" property="ISBN" />
+        <result column="originalprice" property="originalprice" />
+        <result column="price" property="price" />
+        <result column="category" property="category" />
+        <result column="details" property="details" />
+        <result column="state" property="state" />
+    </resultMap>
+    <select id="selectSellBooks" parameterType="String" resultMap="Books">
+        select * from book where bookID in (
+            select bookID from sell where providerEmail=#{0});
+    </select>
+
+    <select id="selectBuyBooks" parameterType="String" resultMap="Books">
+        select * from book where bookID in (
+            select bookID from buy where consumerEmail=#{0});
+    </select>
+
+    <select id="selectNeedBooks" parameterType="String" resultMap="Books">
+        select * from book where bookID in (
+            select bookID from need where neederEmail=#{0});
+    </select>
+
+  <insert id="insertSell">
+      insert into sell values (#{0}, #{1});
+  </insert>
+
+</mapper>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>注册界面</title>
+	<link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/common.css" />
+	<link rel="stylesheet" href="css/font-awesome.min.css" />
+
+	<!-- ************************* JS Files ************************* -->
+	<script src="assets/js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.min.js" ></script>
+	<script type="text/javascript" src="js/common.js" ></script>
+	<script src="assets/js/vendor.js"></script>
+	<script src="assets/js/main.js"></script>
+</head>
+<body>
+	<div class="wrap login_wrap">
+		<div class="content">
+
+			<div id="aaa" class="logo"></div>
+
+			<div class="login_box">
+
+				<div class="login_form">
+					<div class="login_title">
+						注册
+					</div>
+					<form action="#" method="post">
+						<div class="form_text_ipt">
+							<input id="register-email" type="text" placeholder="邮箱">
+						</div>
+						<div class="ececk_warning"><span>邮箱不能为空</span></div>
+						<div class="form_text_ipt">
+							<input id="register-username" type="text" placeholder="用户名">
+						</div>
+						<div class="ececk_warning"><span>用户名不能为空</span></div>
+						<div class="form_text_ipt">
+							<input id="register-password" type="password" placeholder="密码">
+						</div>
+						<div class="ececk_warning"><span>密码不能为空</span></div>
+						<div class="form_text_ipt">
+							<input id="register-repassword" type="password" placeholder="重复密码">
+						</div>
+						<div class="ececk_warning"><span>密码不能为空</span></div>
+						<div class="form_btn">
+							<button type="button" onclick="register()">注册</button>
+						</div>
+						<div class="form_reg_btn">
+							<span>已有帐号？</span><a href="login.html">马上登录</a>
+						</div>
+					</form>
+					<div class="other_login"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script>
+    function register() {
+        const pattern = /^[A-Za-z0-9]+$/;
+        var username = document.getElementById("register-username").value;
+        var password = document.getElementById("register-password").value;
+        var password2 = document.getElementById("register-repassword").value;
+        var email = document.getElementById("register-email").value;
+        if (username.length < 3 || username.length > 16 || !pattern.test(username)) {
+            alert("Invalid username !");
+            return;
+        }
+        if (password !== password2) {
+            alert("2 passwords are not same !");
+            return;
+        }
+        if (password.length < 3 || password.length > 16 || !pattern.test(username)) {
+            alert("Invalid password !");
+            return;
+        }
+        $.post(
+            'http://localhost:8080/register',
+            {
+                'username':username, 'password':password, 'email':email
+            },
+            function(response) {
+                if (response.toString() === "success") {
+                    alert("注册成功！");
+                    $(location).attr('href', 'index.html?email='+email+'&username='+username);
+                } else {
+                    alert("注册失败！");
+                    //$(location).attr('href', 'index.html');
+                }
+            }
+        );
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="data.dao.BookMapper">
+
+  <resultMap id="BaseResultMap" type="data.pojo.Book">
+    <result column="bookID" jdbcType="INTEGER" property="bookid" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="ISBN" jdbcType="VARCHAR" property="isbn" />
+    <result column="originalprice" jdbcType="REAL" property="originalprice" />
+    <result column="price" jdbcType="REAL" property="price" />
+    <result column="category" jdbcType="VARCHAR" property="category" />
+    <result column="imageURL" jdbcType="VARCHAR" property="imageurl" />
+    <result column="details" jdbcType="VARCHAR" property="details" />
+    <result column="state" jdbcType="TINYINT" property="state" />
+  </resultMap>
+
+  <insert id="insert" parameterType="data.pojo.Book">
+    insert into book
+    (bookID, name, ISBN, originalprice, price, category, imageURL, details, state)
+    values
+    (#{bookid,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{isbn,jdbcType=VARCHAR},
+      #{originalprice,jdbcType=REAL}, #{price,jdbcType=REAL}, #{category,jdbcType=VARCHAR},
+      #{imageurl,jdbcType=VARCHAR}, #{details,jdbcType=VARCHAR}, #{state,jdbcType=TINYINT}
+      )
+  </insert>
+
+  <select id="selectAll" resultMap="BaseResultMap">
+    select
+    bookID, name, ISBN, originalprice, price, category, imageURL, details, state
+    from book
+  </select>
+
+  <resultMap id="BaseResultMap" type="data.pojo.Book">
+    <result column="bno" jdbcType="CHAR" property="bno" />
+    <result column="category" jdbcType="CHAR" property="category" />
+    <result column="title" jdbcType="VARCHAR" property="title" />
+    <result column="press" jdbcType="VARCHAR" property="press" />
+    <result column="year" jdbcType="INTEGER" property="year" />
+    <result column="author" jdbcType="VARCHAR" property="author" />
+    <result column="price" jdbcType="DECIMAL" property="price" />
+    <result column="total" jdbcType="INTEGER" property="total" />
+    <result column="stock" jdbcType="INTEGER" property="stock" />
+  </resultMap>
+
+  <insert id="insert" parameterType="data.pojo.Book">
+    insert into book
+    (bno, category, title, press, year, author, price, total, stock)
+    values (#{bno,jdbcType=CHAR}, #{category,jdbcType=CHAR}, #{title,jdbcType=VARCHAR},
+      #{press,jdbcType=VARCHAR}, #{year,jdbcType=INTEGER}, #{author,jdbcType=VARCHAR},
+      #{price,jdbcType=DECIMAL}, #{total,jdbcType=INTEGER}, #{stock,jdbcType=INTEGER}
+      )
+  </insert>
+
+  <select id="selectAll" resultMap="BaseResultMap">
+    select bno, category, title, press, year, author, price, total, stock
+    from book
+  </select>
+
+</mapper>

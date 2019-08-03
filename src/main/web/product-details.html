@@ -1,0 +1,177 @@
+﻿<!doctype html>
+<html class="no-js" lang="zxx">
+ 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- ************************* CSS Files ************************* -->
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="assets/css/vendor.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="assets/css/main.css">
+
+    <!-- ************************* JS Files ************************* -->
+    <script src="assets/js/jquery-3.1.1.min.js"></script>
+    <script src="assets/js/vendor.js"></script> <!-- jQuery JS -->
+    <script src="assets/js/main.js"></script>
+</head>
+
+<body>
+
+    <!-- Preloader Start -->
+    <div class="ft-preloader active">
+        <div class="ft-preloader-inner h-100 d-flex align-items-center justify-content-center">
+            <div class="ft-child ft-bounce1"></div>
+            <div class="ft-child ft-bounce2"></div>
+            <div class="ft-child ft-bounce3"></div>
+        </div>
+    </div>
+    <!-- Preloader End -->
+
+    <!-- Main Wrapper Start -->
+    <div class="wrapper">
+        <!-- Header Start -->
+        <header class="header">
+            <div class="header__inner fixed-header">
+                <div class="header__main">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-11">
+                                <div class="header__main-inner">
+                                    <div class="header__main-left">
+                                        <nav class="main-navigation text-center d-none d-lg-block">
+                                            <ul class="mainmenu">
+                                                <li class="mainmenu__item">
+                                                    <a class="mainmenu__link">
+                                                        <span class="mm-text">ZJU Book Trade</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                    <div class="col-md-5">
+                                        <div class="header-toolbar__item header-toolbar--search-btn">
+                                            <a href="#searchForm" class="header-toolbar__btn toolbar-btn">
+                                                <i class="la la-search"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="header__main-center">
+                                        <div class="header-toolbar-wrap">
+                                            <div class="header-toolbar">
+                                                <ul class="nav navbar-nav navbar-right">
+                                                    <a id="UserPlaceHolder" href="login.html">Log In</a>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Header End -->
+
+        <!-- Main Content Wrapper Start -->
+        <div class="main-content-wrapper">
+            <div class="container">
+                <div class="row no-gutters mb--80 mb-md--57">
+                    <div class="col-lg-7 product-main-image">
+                        <div id="big-image" class="product-image">
+                            <img src="assets/img/products/prod-04-700x778.png" height="500" width="500" alt="Product">
+                            <span class="product-badge sale">Sale</span>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 product-main-details">
+                        <div class="product-summary pl-lg--30 pl-md--0">
+                            <h3 id="bookname" class="product-title mb--20"> </h3>
+                            <p id="details" class="product-short-description mb--20"> </p>
+                            <div id="price" class="product-price-wrapper mb--25">
+                                <span class="money"><s>$200.00</s></span>
+                                <span class="money">$200.00</span>
+                            </div>
+                            <button type="button" class="btn btn-default" onclick="$(location).attr('href', 'buybook-form.html');">
+                                BUY
+                            </button>
+                            <button type="button" class="btn btn-shape-square btn-size-sm" onclick="window.location.href='#'">
+                                <span>Chat With Seller</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Main Content Wrapper End -->
+        <div class="footer-bottom">
+            <div class="container-fluid">
+                <div class="row border-top ptb--20">
+                    <div class="col-12 text-center">
+                        <p class="copyright-text">Copyright &copy; 2019. ZJU Book Trade Website<a target="_blank" href="http://sc.chinaz.com/moban/"></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </footer>
+        <!-- Footer End-->
+
+        <!-- Searchform Popup Start -->
+        <div class="searchform__popup" id="searchForm">
+            <a href="#" class="btn-close"><i class="la la-remove"></i></a>
+            <div class="searchform__body">
+                <p>Start typing and press Enter to search</p>
+                <form class="searchform">
+                    <input type="text" name="popup-search" id="popup-search" class="searchform__input" placeholder="Search Entire Store...">
+                    <button type="submit" class="searchform__submit"><i class="la la-search"></i></button>
+                </form>
+            </div>
+        </div>
+        <!-- Searchform Popup End -->
+
+    </div>
+    <!-- Main Wrapper End -->
+
+<script>
+    var email = localStorage.getItem('email');
+    var username = localStorage.getItem('username');
+
+    if (email) {
+        var a = document.getElementById('UserPlaceHolder');
+        a.innerHTML = "<a id=\"UserPlaceHolder\" href=\"user-details.html?email="+email+"&username="+username+"\">"+email+"</a>";
+
+        a = document.getElementById('big-image');
+        a.innerHTML = "<img src=\""+getParam("imageURL")+"\" height=\"500\" width=\"500\" alt=\"Product\">\n" +
+                        "<span class=\"product-badge sale\">Sale</span>";
+        a = document.getElementById('bookname');
+        a.innerHTML = getParam("name");
+        a = document.getElementById('details');
+        a.innerHTML = getParam("details");
+        a = document.getElementById('price');
+        a.innerHTML = "<div><span class=\"money\"><s>￥"+getParam("originalprice")+"</s></span></div>\n" + "<div><span class=\"money\">￥"+getParam("price")+"</span></div>";
+
+        localStorage.setItem('bookID', getParam("bookID"));
+        localStorage.setItem('bookname', getParam("name"));
+        localStorage.setItem('price', getParam("price"));
+
+    } else {
+        $(location).attr('href', 'login.html');
+    }
+
+    function getParam(item) {
+        let reg = new RegExp("(^|&)" + item + "=([^&]*)(&|$)", "i");
+        let r = window.location.search.substr(1).match(reg);
+        if (r != null) {
+            return unescape(r[2]);
+        }
+        return null;
+    }
+
+</script>
+</body>
+
+</html>
